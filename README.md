@@ -57,7 +57,7 @@ List of AI-Prompt during development
 * how to use key hash to store the value in c#.
 * how to modify string in c#
 
-https://chatgpt.com/c/69688fca-0290-8322-8e00-dbb3c36ff5f0
+https://chatgpt.com/share/6968916d-9eec-8000-858a-54a515cc89fe
 
 
 
