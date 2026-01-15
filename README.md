@@ -52,6 +52,13 @@ OldPhonePad(“227*#”) => output: B
 OldPhonePad(“4433555 555666#”) => output: HELLO
 OldPhonePad(“8 88777444666*664#”) => output: TURING
 
+List of AI-Prompt during development
+
+* how to use key hash to store the value in c#.
+* how to modify string in c#
+
+https://chatgpt.com/c/69688fca-0290-8322-8e00-dbb3c36ff5f0
+
 
 
 
