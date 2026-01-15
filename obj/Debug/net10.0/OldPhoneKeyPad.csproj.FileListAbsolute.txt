@@ -1,0 +1,14 @@
+/Users/kyawthetwin/Desktop/c#/OldPhoneKeyPad/bin/Debug/net10.0/OldPhoneKeyPad
+/Users/kyawthetwin/Desktop/c#/OldPhoneKeyPad/bin/Debug/net10.0/OldPhoneKeyPad.deps.json
+/Users/kyawthetwin/Desktop/c#/OldPhoneKeyPad/bin/Debug/net10.0/OldPhoneKeyPad.runtimeconfig.json
+/Users/kyawthetwin/Desktop/c#/OldPhoneKeyPad/bin/Debug/net10.0/OldPhoneKeyPad.dll
+/Users/kyawthetwin/Desktop/c#/OldPhoneKeyPad/bin/Debug/net10.0/OldPhoneKeyPad.pdb
+/Users/kyawthetwin/Desktop/c#/OldPhoneKeyPad/obj/Debug/net10.0/OldPhoneKeyPad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyawthetwin/Desktop/c#/OldPhoneKeyPad/obj/Debug/net10.0/OldPhoneKeyPad.AssemblyInfoInputs.cache
+/Users/kyawthetwin/Desktop/c#/OldPhoneKeyPad/obj/Debug/net10.0/OldPhoneKeyPad.AssemblyInfo.cs
+/Users/kyawthetwin/Desktop/c#/OldPhoneKeyPad/obj/Debug/net10.0/OldPhoneKeyPad.csproj.CoreCompileInputs.cache
+/Users/kyawthetwin/Desktop/c#/OldPhoneKeyPad/obj/Debug/net10.0/OldPhoneKeyPad.dll
+/Users/kyawthetwin/Desktop/c#/OldPhoneKeyPad/obj/Debug/net10.0/refint/OldPhoneKeyPad.dll
+/Users/kyawthetwin/Desktop/c#/OldPhoneKeyPad/obj/Debug/net10.0/OldPhoneKeyPad.pdb
+/Users/kyawthetwin/Desktop/c#/OldPhoneKeyPad/obj/Debug/net10.0/OldPhoneKeyPad.genruntimeconfig.cache
+/Users/kyawthetwin/Desktop/c#/OldPhoneKeyPad/obj/Debug/net10.0/ref/OldPhoneKeyPad.dll
