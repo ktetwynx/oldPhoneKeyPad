@@ -20,7 +20,7 @@ class Program
     {
         string input = "8 88777444666*664#";
         string result = ConvertKeypadInput(input);
-        // Console.WriteLine(result);
+        Console.WriteLine(result);
     }
 
     static string ConvertKeypadInput(string input)
@@ -61,7 +61,7 @@ class Program
                 Commit(buffer, output);
 
                 if (output.Length > 0)
-                    output.Length--; // backspace
+                    output.Length--;
                 continue;
             }
         }
